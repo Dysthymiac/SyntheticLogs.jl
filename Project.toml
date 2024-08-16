@@ -7,11 +7,11 @@ version = "1.0.0-DEV"
 DocStringExtensions = "ffbed154-4ef7-542d-bbb7-c09d3a79fcae"
 
 [compat]
-Aqua = "^0.8"
-JET = "^0.0.1"
-DocStringExtensions = "^0.9"
-Test = "^1.6.7"
-julia = "^1.6.7"
+Aqua = "≥0.8"
+JET = "≥0.0.1"
+DocStringExtensions = "≥0.9"
+Test = "≥1.6.7"
+julia = "≥1.6.7"
 
 [extras]
 Aqua = "4c88cf16-eb10-579e-8560-4a9242c79595"
